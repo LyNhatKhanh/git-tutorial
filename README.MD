@@ -1,0 +1,19 @@
+Command Git: 
+- git init
+- git status
+- git add 
+- git commit
+
+Check Git: 
+- git log
+- git show <id commit>
+- git diff
+
+Work place: 
+- Working directory
+- Staging area
+- Repository
+
+Step back: 
+- git checkout/restore <file>
+- git reset HEAD <file>
