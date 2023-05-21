@@ -26,3 +26,5 @@ if (ktra_hop_le(a,b,c) == 1):
 else:
     print("Tam giac hop le.")
     cac_phep_tinh_TG(a,b,c)
+
+print('Hello')
