@@ -7,5 +7,4 @@ def chu_vi_HT(r):
 r=int(input("Nhap ban kinh: "))
 print("Chu vi hinh tron: " + chu_vi_HT(r)) 
 print("Dien tich hinh tron: " + dien_tich_HT(r)) 
-
 print("Hello")
